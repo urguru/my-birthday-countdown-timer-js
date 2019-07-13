@@ -1,17 +1,17 @@
-body{
-    color: white;
-    background: black;
-    text-align: center;
+body {
+  color: white;
+  background: black;
+  text-align: center;
 }
-table{
-    margin:20px auto;
-    padding: 20px;
+table {
+  margin: 20px auto;
+  padding: 20px;
 }
-td{
-    padding: 20px;
-    font-size: 2rem;
+td {
+  padding: 8px;
+  font-size: 1.5rem;
 }
-h1{
-    margin:30px 20px;
-    padding: 30px;
+h1 {
+  margin: 20px 10px;
+  padding: 20px;
 }
